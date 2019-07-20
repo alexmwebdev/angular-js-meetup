@@ -1,0 +1,15 @@
+{
+  "name": "angularRegistration",
+  "version": "2.0.0",
+  "description": "An application for taking attendance at meetups. This is part of the Angular.js course at LinkedIn Learning",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/planetoftheweb/angulardata.git"
+  },
+  "author": "Alex Maniago",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-util": "^2.2.20",
+    "gulp-webserver": "^0.9.1"
+  }
+}
